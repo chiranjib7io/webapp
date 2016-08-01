@@ -1,0 +1,10 @@
+"First Name","Last Name","Principal Amount","Interest Rate","Repay Amount","Number of Period","Interet Type(FIXED/REDUCE)","Period Type(WEEK/ MONTH)","Current Installment Number","Installment Date (DD-MM-YYYY)","Total Due Amount","Total Saving Amount"
+Jayanti,Mondal,5000,15,5750,50,FIXED,WEEK,50,24-01-2016,0,0
+Putul,Garami,5000,15,5750,50,FIXED,WEEK,50,24-01-2016,0,0
+Pachu,Bahadur,12000,15,13800,50,FIXED,WEEK,50,23-02-2016,0,0
+Swapna,Halder,8000,15,9200,50,FIXED,WEEK,50,24-01-2016,0,0
+Brihaspati,Mondal,10000,15,11500,50,FIXED,WEEK,50,24-01-2016,0,0
+Rinku,Baidya,8000,15,9200,50,FIXED,WEEK,50,23-02-2016,0,0
+Mamata,Mondal,10000,15,11500,50,FIXED,WEEK,50,24-01-2016,0,0
+Durga,Mondal,10000,15,11500,50,FIXED,WEEK,50,24-01-2016,0,0
+Shasthi,Halder,12000,15,13800,50,FIXED,WEEK,50,24-01-2016,0,0

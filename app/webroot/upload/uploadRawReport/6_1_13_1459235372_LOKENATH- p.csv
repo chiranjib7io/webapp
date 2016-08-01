@@ -1,0 +1,6 @@
+First Name,Last Name,Principal Amount,Interest Rate,Repay Amount,Number of Period,Interet Type(FIXED/REDUCE),Period Type(WEEK/ MONTH),Current Installment Number,Installment Date (DD-MM-YYYY),Total Due Amount,Total Saving Amount
+Aparna,Hajra,5000,15,5750,46,FIXED,WEEK,4,25-03-2016,5250,0
+Tuktuki,Paik,5000,15,5750,46,FIXED,WEEK,4,25-03-2016,5250,0
+Hakima,Bibi,5000,15,5750,46,FIXED,WEEK,4,25-03-2016,5250,0
+Mina,Panoa,5000,15,5750,46,FIXED,WEEK,3,25-03-2016,5375,0
+Suparna,Upadhyay,5000,15,5750,46,FIXED,WEEK,3,25-03-2016,5375,0

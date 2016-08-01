@@ -1,0 +1,5 @@
+First Name, Last Name, Principal Amount,Interest Rate,Repay Amount,Number of Period,Interet Type(FIXED/REDUCE),Period Type(WEEK/ MONTH),Current Installment Number,Installment Date (DD-MM-YYYY),Total Due Amount,Total Saving Amount
+Swasaswati,Khan,5000,15,5750,50,FIXED,WEEK,49,15-02-2016,115,0
+Soma,Niyogi,5000,15,5750,50,FIXED,WEEK,49,15-02-2016,115,0
+Sarrbani,Haldar,5000,15,5750,50,FIXED,WEEK,49,15-02-2016,115,0
+Basanti,Gyan,5000,15,5750,50,FIXED,WEEK,49,15-02-2016,115,0

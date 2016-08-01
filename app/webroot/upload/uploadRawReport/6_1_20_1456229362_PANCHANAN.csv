@@ -1,0 +1,9 @@
+"First Name","Last Name","Principal Amount","Interest Rate","Repay Amount","Number of Period","Interet Type(FIXED/REDUCE)","Period Type(WEEK/ MONTH)","Current Installment Number","Installment Date (DD-MM-YYYY)","Total Due Amount","Total Saving Amount"
+Aradhana,Haldar,5000,15,5750,50,FIXED,WEEK,50,17-01-2016,0,0
+Pritima,Haldar,8000,15,9200,50,FIXED,WEEK,50,17-01-2016,0,0
+Tapati,Karmakar,5000,15,5750,46,FIXED,WEEK,17,20-01-2016,3625,0
+Manu,Halder,8000,15,9200,50,FIXED,WEEK,50,17-01-2016,0,0
+Pritima,Moira,12000,15,13800,50,FIXED,WEEK,50,17-01-2016,0,0
+Kalpana,Karmakar,5000,15,5750,50,FIXED,WEEK,50,23-12-2015,0,0
+Rekha,Karmakar,5000,15,5750,50,FIXED,WEEK,50,23-12-2015,0,0
+Rama,Bhandury,5000,15,5750,46,FIXED,WEEK,17,20-01-2016,3625,0

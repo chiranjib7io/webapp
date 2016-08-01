@@ -1,0 +1,12 @@
+"First Name","Last Name","Principal Amount","Interest Rate","Repay Amount","Number of Period","Interet Type(FIXED/REDUCE)","Period Type(WEEK/ MONTH)","Current Installment Number","Installment Date (DD-MM-YYYY)","Total Due Amount","Total Saving Amount"
+Bandana,Sardar,10000,15,11500,46,FIXED,WEEK,21,26-01-2016,6250,0
+Basanti,Sardar,8000,15,9200,46,FIXED,WEEK,20,26-01-2016,5200,0
+Binata,Adhikary,8000,15,9200,46,FIXED,WEEK,20,26-01-2016,5200,0
+Rasmoni,Naiya,5000,15,5750,46,FIXED,WEEK,21,26-01-2016,3125,0
+Tagari,Naiya,5000,15,5750,46,FIXED,WEEK,21,26-01-2016,3125,0
+Rekha,Adhikary,5000,15,5750,46,FIXED,WEEK,20,26-01-2016,3250,0
+Ria,Adhikary,5000,15,5750,46,FIXED,WEEK,20,26-01-2016,3250,0
+Padma,Adhikary,5000,15,5750,46,FIXED,WEEK,20,26-01-2016,3250,0
+Sankati,Adhikary,5000,15,5750,46,FIXED,WEEK,20,26-01-2016,3250,0
+Sakti,Adhikary,5000,15,5750,46,FIXED,WEEK,20,26-01-2016,3250,0
+Parbati,Pramanik,5000,15,5750,46,FIXED,WEEK,20,26-01-2016,3250,0

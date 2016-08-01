@@ -1,0 +1,11 @@
+"First Name","Last Name","Principal Amount","Interest Rate","Repay Amount","Number of Period","Interet Type(FIXED/REDUCE)","Period Type(WEEK/ MONTH)","Current Installment Number","Installment Date (DD-MM-YYYY)","Total Due Amount","Total Saving Amount"
+Maleka,Bibi,5000,15,5750,46,FIXED,WEEK,46,25-01-2016,0,0
+Bula,Payek,5000,15,5750,46,FIXED,WEEK,46,25-01-2016,0,0
+Devi,Naiya,5000,15,5750,46,FIXED,WEEK,40,25-01-2016,750,0
+Suchitra,Mondal,5000,15,5750,46,FIXED,WEEK,40,25-01-2016,750,0
+Anjali,Purakayet,5000,15,5750,46,FIXED,WEEK,39,25-01-2016,875,0
+Mamoni,Sikari,5000,15,5750,46,FIXED,WEEK,39,25-01-2016,875,0
+Sila,Naiya,5000,15,5750,46,FIXED,WEEK,39,25-01-2016,875,0
+Kamala,Mistri,5000,15,5750,46,FIXED,WEEK,39,25-01-2016,875,0
+Latika,Pramanik,5000,15,5750,46,FIXED,WEEK,39,25-01-2016,875,0
+Debi,Sikari,5000,15,5750,46,FIXED,WEEK,38,25-01-2016,1000,0

@@ -1,0 +1,6 @@
+First Name,Last Name,Principal Amount,Interest Rate,Repay Amount,Number of Period,Interet Type(FIXED/REDUCE),Period Type(WEEK/ MONTH),Current Installment Number,Installment Date (DD-MM-YYYY),Total Due Amount,Total Saving Amount
+Tahira,Bibi,5000,15,5750,46,FIXED,WEEK,0,25-03-2016,5750,0
+Sajida,Bibi,5000,15,5750,46,FIXED,WEEK,0,25-03-2016,5750,0
+Majida ,Bibi,5000,15,5750,46,FIXED,WEEK,0,25-03-2016,5750,0
+Alima,Bibi,5000,15,5750,46,FIXED,WEEK,0,25-03-2016,5750,0
+Panju,Bibi,5000,15,5750,46,FIXED,WEEK,0,25-03-2016,5750,0

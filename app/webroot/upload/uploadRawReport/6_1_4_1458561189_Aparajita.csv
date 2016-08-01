@@ -1,0 +1,7 @@
+"First Name","Last Name","Principal Amount","Interest Rate","Repay Amount","Number of Period","Interet Type(FIXED/REDUCE)","Period Type(WEEK/ MONTH)","Current Installment Number","Installment Date (DD-MM-YYYY)","Total Due Amount","Total Saving Amount"
+Rasida,Payik,10000,15,11500,46,FIXED,WEEK,0,11-03-2016,11500,0
+Rasida,Bibi,5000,15,5750,46,FIXED,WEEK,0,11-03-2016,5750,0
+Jarina,Molla,8000,15,9200,46,FIXED,WEEK,0,11-03-2016,9200,0
+Hazra,Bibi,8000,15,9200,46,FIXED,WEEK,0,11-03-2016,9200,0
+Rebecca,Laskar,5000,15,5750,46,FIXED,WEEK,0,11-03-2016,5750,0
+Aresa,Bibi Payik,5000,15,5750,46,FIXED,WEEK,0,11-03-2016,5750,0

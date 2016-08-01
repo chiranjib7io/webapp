@@ -1,0 +1,4 @@
+"First Name","Last Name","Principal Amount","Interest Rate","Repay Amount","Number of Period","Interet Type(FIXED/REDUCE)","Period Type(WEEK/ MONTH)","Current Installment Number","Installment Date (DD-MM-YYYY)","Total Due Amount","Total Saving Amount"
+Sankha,Tati,10000,15,11500,46,FIXED,WEEK,38,24-01-2016,2000,0
+Tuktuki,Payek,5000,15,5750,46,FIXED,WEEK,32,24-01-2016,1750,0
+Bharati,Sarkar,5000,15,5750,46,FIXED,WEEK,33,24-01-2016,1625,0

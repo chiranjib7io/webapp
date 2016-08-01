@@ -1,0 +1,5 @@
+"First Name","Last Name","Principal Amount","Interest Rate","Repay Amount","Number of Period","Interet Type(FIXED/REDUCE)","Period Type(WEEK/ MONTH)","Current Installment Number","Installment Date (DD-MM-YYYY)","Total Due Amount","Total Saving Amount"
+Champa,Mondal,10000,15,11500,46,FIXED,WEEK,34,20-01-2016,3000,0
+Pratima,Gayen,5000,15,5750,46,FIXED,WEEK,34,20-01-2016,1500,0
+Rupa,Roy,5000,15,5750,46,FIXED,WEEK,34,20-01-2016,1500,0
+Nandarani,Nayek,5000,15,5750,46,FIXED,WEEK,34,20-01-2016,1500,0
